@@ -1,1 +1,1 @@
-# HackBMU7
+An AI-powered, vision-based robot designed to detect, recognize, and follow a specific person while responding to voice/text commands. Built for flexibility, this robot can be adapted for various environments such as defense, healthcare, or home care — but this implementation focuses on core, sector-independent functionality.
